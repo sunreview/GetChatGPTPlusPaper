@@ -133,7 +133,7 @@ ChatGPT Plus 是 ChatGPT 的个人付费订阅方案之一。OpenAI 官方目前
 
   验证成功后，系统会显示目标套餐为 **ChatGPT Plus**，并进入下一步。
 
-  ![步骤2：输入并验证卡密](./images/step-02.jpg)
+  ![步骤2：输入并验证卡密](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-02.jpg)
 
 ---
 
@@ -149,7 +149,7 @@ ChatGPT Plus 是 ChatGPT 的个人付费订阅方案之一。OpenAI 官方目前
 
 3. 把完整 JSON 粘贴到输入框。
 
-   ![步骤3：进入解析账号页面](./images/step-03.jpg)
+   ![步骤3：进入解析账号页面](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-03.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ ChatGPT Plus 是 ChatGPT 的个人付费订阅方案之一。OpenAI 官方目前
 
 图中演示账号当前为 ChatGPT Free。
 
-![步骤4：确认 ChatGPT 登录账号](./images/step-04.jpg)
+![步骤4：确认 ChatGPT 登录账号](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-04.jpg)
 
 ---
 
@@ -171,7 +171,7 @@ ChatGPT Plus 是 ChatGPT 的个人付费订阅方案之一。OpenAI 官方目前
 
 系统会新打开一个页面，显示当前 ChatGPT 登录账号对应的 JSON 数据。
 
-![步骤5：点击获取 Token](./images/step-05.jpg)
+![步骤5：点击获取 Token](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-05.jpg)
 
 > ⚠️ **再次提醒：Token 是敏感凭证。**
 >
@@ -189,7 +189,7 @@ Token 页面打开后：
 
   一定要复制 **完整页面的 JSON 数据**，不要只截取其中一部分。
 
-  ![步骤6：复制完整 Token JSON](./images/step-06.jpg)
+  ![步骤6：复制完整 Token JSON](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-06.jpg)
 
 ---
 
@@ -201,7 +201,7 @@ Token 页面打开后：
 
 系统会识别当前 Token 对应的 ChatGPT 账号。
 
-![步骤7：粘贴 Token 并解析账号](./images/step-07.jpg)
+![步骤7：粘贴 Token 并解析账号](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-07.jpg)
 
 ---
 
@@ -223,7 +223,7 @@ Token 页面打开后：
 
 > ⚠️ 一旦提交，请不要随意关闭页面、退出 ChatGPT 或切换账号。
 
-![步骤8：确认邮箱并提交升级](./images/step-08.jpg)
+![步骤8：确认邮箱并提交升级](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-08.jpg)
 
 ---
 
@@ -235,7 +235,7 @@ Token 页面打开后：
 
 看到完成状态以后，点击 **“我知道了”** 即可。
 
-![步骤9：充值完成](./images/step-09.jpg)
+![步骤9：充值完成](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-09.jpg)
 
 ---
 
@@ -255,7 +255,7 @@ Token 页面打开后：
 
 4. 再次检查 Billing / 套餐状态。
 
-   ![步骤10：确认 ChatGPT Plus 已生效](./images/step-10.jpg)
+   ![步骤10：确认 ChatGPT Plus 已生效](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-10.jpg)
 
    到这里，整个 ChatGPT Plus 自助充值流程就完成了。🎊
 
