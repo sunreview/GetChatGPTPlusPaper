@@ -8,7 +8,7 @@
 | ---------------------------- | ------------------------------------ |
 | 📘 本教程原始页面             | https://recharge.aigc248.com/        |
 | 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus 自助充值系统  | https://plus.aimao.cc/               |
+| 💳 ChatGPT Plus 自助充值系统  | https://autosub.site/               |
 | 🤖 ChatGPT 官网               | https://chatgpt.com/                 |
 
 ---
@@ -91,7 +91,7 @@
 
 打开：
 
-👉 https://plus.aimao.cc/
+👉 https://autosub.site/
 
 进入后可以看到三个主要步骤：
 
@@ -337,7 +337,7 @@ Token 页面打开后：
 
 - 购买 ChatGPT Plus 充值卡密：https://store.ai-headshot.net/item/4
 
-- ChatGPT Plus 自助充值系统：https://plus.aimao.cc/
+- ChatGPT Plus 自助充值系统：https://autosub.site/
 
 - 完整图文 / 视频教程：https://recharge.aigc248.com/
 
