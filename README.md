@@ -13,6 +13,16 @@
 
 ---
 
+## 🎬 视频教程（约 1 分钟全流程演示）
+
+先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
+
+<video src="https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/tutorial-video.mp4" controls muted width="100%" poster="https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg"></video>
+
+> 如果上方视频无法直接播放，可点击 👉 [直接观看 / 下载视频](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/tutorial-video.mp4)，或前往 [教程原始页面](https://recharge.aigc248.com/) 在线观看。
+
+---
+
 ## 1. 🌍 前言：2026 年，为什么还有很多国内用户需要 ChatGPT Plus？
 
 ### 为什么国内用户在充值 ChatGPT Plus 时容易卡住？
@@ -85,7 +95,10 @@
 
 ## 4. 🖼️ ChatGPT Plus 充值图文步骤
 
-下面进入正式充值流程。
+下面进入正式充值流程。看完上方视频后，如需逐项核对细节，展开下面的完整图文步骤对照操作即可。
+
+<details>
+<summary>📖 点击展开完整图文步骤（共 10 步）</summary>
 
 ### 第 1 步：进入 ChatGPT Plus 自助充值系统 🚪
 
@@ -242,6 +255,8 @@ Token 页面打开后：
    ![步骤10：确认 ChatGPT Plus 已生效](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-10.jpg)
 
    到这里，整个 ChatGPT Plus 自助充值流程就完成了。🎊
+
+</details>
 
 ---
 
