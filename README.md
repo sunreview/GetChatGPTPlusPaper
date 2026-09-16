@@ -17,9 +17,9 @@
 
 先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-[![▶️ 点击观看 ChatGPT Plus 充值视频教程](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg)](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/0628.mp4)
+[![▶️ 点击观看 ChatGPT Plus 充值视频教程](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg)](https://recharge.aigc248.com/videos/0628.mp4)
 
-> ▶️ **点击上方封面即可打开视频播放页。** 也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[直接下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/0628.mp4)。
+> ▶️ **点击上方封面即可在线播放视频。** 也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/0628.mp4)。
 
 ---
 
