@@ -17,9 +17,9 @@
 
 先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-<video src="https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/tutorial-video.mp4" controls muted width="100%" poster="https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg"></video>
+[![▶️ 点击观看 ChatGPT Plus 充值视频教程](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg)](https://recharge.aigc248.com/videos/0628.mp4)
 
-> 如果上方视频无法直接播放，可点击 👉 [直接观看 / 下载视频](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/tutorial-video.mp4)，或前往 [教程原始页面](https://recharge.aigc248.com/) 在线观看。
+> ▶️ **点击上方封面即可打开视频。** 也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[直接下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/tutorial-video.mp4)。
 
 ---
 
@@ -110,7 +110,7 @@
 
 **验证卡密 → 解析账号 → 确认充值**
 
-![步骤1：进入 ChatGPT Plus 自助充值系统](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-01.jpg)
+![步骤1：进入 ChatGPT Plus 自助充值系统](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg)
 
 ---
 
@@ -130,7 +130,7 @@
 
   验证成功后，系统会显示目标套餐为 **ChatGPT Plus**，并进入下一步。
 
-  ![步骤2：输入并验证卡密](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-02.jpg)
+  ![步骤2：输入并验证卡密](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-02.jpg)
 
 ---
 
@@ -146,7 +146,7 @@
 
 3. 把完整 JSON 粘贴到输入框。
 
-   ![步骤3：进入解析账号页面](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-03.jpg)
+   ![步骤3：进入解析账号页面](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-03.jpg)
 
 ---
 
@@ -158,7 +158,7 @@
 
 图中演示账号当前为 ChatGPT Free。
 
-![步骤4：确认 ChatGPT 登录账号](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-04.jpg)
+![步骤4：确认 ChatGPT 登录账号](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-04.jpg)
 
 ---
 
@@ -168,7 +168,7 @@
 
 系统会新打开一个页面，显示当前 ChatGPT 登录账号对应的 JSON 数据。
 
-![步骤5：点击获取 Token](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-05.jpg)
+![步骤5：点击获取 Token](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-05.jpg)
 
 > ⚠️ **再次提醒：Token 是敏感凭证。**
 >
@@ -186,7 +186,7 @@ Token 页面打开后：
 
   一定要复制 **完整页面的 JSON 数据**，不要只截取其中一部分。
 
-  ![步骤6：复制完整 Token JSON](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-06.jpg)
+  ![步骤6：复制完整 Token JSON](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-06.jpg)
 
 ---
 
@@ -198,7 +198,7 @@ Token 页面打开后：
 
 系统会识别当前 Token 对应的 ChatGPT 账号。
 
-![步骤7：粘贴 Token 并解析账号](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-07.jpg)
+![步骤7：粘贴 Token 并解析账号](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-07.jpg)
 
 ---
 
@@ -220,7 +220,7 @@ Token 页面打开后：
 
 > ⚠️ 一旦提交，请不要随意关闭页面、退出 ChatGPT 或切换账号。
 
-![步骤8：确认邮箱并提交升级](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-08.jpg)
+![步骤8：确认邮箱并提交升级](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-08.jpg)
 
 ---
 
@@ -232,7 +232,7 @@ Token 页面打开后：
 
 看到完成状态以后，点击 **“我知道了”** 即可。
 
-![步骤9：充值完成](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-09.jpg)
+![步骤9：充值完成](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-09.jpg)
 
 ---
 
@@ -252,7 +252,7 @@ Token 页面打开后：
 
 4. 再次检查 Billing / 套餐状态。
 
-   ![步骤10：确认 ChatGPT Plus 已生效](https://github.com/sunreview/GetChatGPTPlusPaper/blob/main/step-10.jpg)
+   ![步骤10：确认 ChatGPT Plus 已生效](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-10.jpg)
 
    到这里，整个 ChatGPT Plus 自助充值流程就完成了。🎊
 
