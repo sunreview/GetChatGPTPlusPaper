@@ -1,6 +1,8 @@
 # 🚀 2026年国内用户如何充值 ChatGPT Plus？保姆级视频图文教程（新手可用）
 
-> 本文面向希望升级 **ChatGPT Plus** 的中文用户，整理一套从购买卡密、获取账号 Token、提交充值到确认 Plus 状态的完整图文流程。
+> 面向国内 / 中文用户的 **ChatGPT Plus 充值教程**：无需国际信用卡，用**卡密自助充值**给自己的 ChatGPT 账号**升级 Plus 订阅**。本文整理了从购买卡密、获取账号 Token、提交充值到确认 Plus 状态的完整 **图文 + 视频** 流程，2026 年最新、新手可对照操作。
+>
+> 关键词：ChatGPT Plus 充值、GPT Plus 订阅升级、国内 ChatGPT Plus 怎么充值、ChatGPT 卡密充值、ChatGPT 代充 / 自助充值、不用信用卡充值 ChatGPT Plus。
 
 ## 🔗 快速入口
 
