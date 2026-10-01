@@ -10,7 +10,7 @@
 | ---------------------------- | ------------------------------------ |
 | 📘 本教程原始页面             | https://recharge.aigc248.com/        |
 | 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus 自助充值系统  | https://autosub.site/               |
+| 💳 ChatGPT Plus 自助充值系统  | https://easysub.site/               |
 | 🤖 ChatGPT 官网               | https://chatgpt.com/                 |
 
 ---
