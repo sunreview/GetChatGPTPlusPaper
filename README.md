@@ -11,7 +11,6 @@
 | 📘 本教程原始页面             | https://recharge.aigc248.com/        |
 | 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
 | 💳 ChatGPT Plus 自助充值系统  | https://easysub.site/               |
-| 🤖 ChatGPT 官网               | https://chatgpt.com/                 |
 
 ---
 
@@ -54,10 +53,6 @@ https://github.com/user-attachments/assets/50417126-fa27-42d9-aa43-ada64206b06f
 ### ✅ 没有方便的国际信用卡
 
 如果你无法直接在 ChatGPT 官方页面完成银行卡支付，可以考虑使用卡密自助充值。
-
-### ✅ 程序员、独立开发者、内容创作者
-
-如果你经常使用 ChatGPT 写代码、调试程序、分析文档、写文章、做研究，Plus 相比偶尔使用免费版更适合作为生产力工具。
 
 ### ✅ 第一次充值，希望有人机教程可以对照
 
@@ -354,7 +349,7 @@ Token 页面打开后：
 
 - 购买 ChatGPT Plus 充值卡密：https://store.ai-headshot.net/item/4
 
-- ChatGPT Plus 自助充值系统：https://autosub.site/
+- ChatGPT Plus 自助充值系统：https://easysub.site/
 
 - 完整图文 / 视频教程：https://recharge.aigc248.com/
 
