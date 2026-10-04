@@ -18,7 +18,7 @@
 
 先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-https://github.com/user-attachments/assets/50417126-fa27-42d9-aa43-ada64206b06f
+https://github.com/user-attachments/assets/e6c56592-c247-4420-ab0b-174ed5571cab
 
 > ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/1004.mp4)。
 
