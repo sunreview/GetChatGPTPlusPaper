@@ -10,7 +10,7 @@
 | ---------------------------- | ------------------------------------ |
 | 📘 本教程原始页面             | https://recharge.aigc248.com/        |
 | 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus 自助充值系统  | https://easysub.site/               |
+| 💳 ChatGPT Plus 自助充值系统  | https://jufai66.com/               |
 
 ---
 
@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/50417126-fa27-42d9-aa43-ada64206b06f
 
 打开：
 
-👉 https://autosub.site/
+👉 https://jufai66.com
 
 进入后可以看到三个主要步骤：
 
@@ -349,7 +349,7 @@ Token 页面打开后：
 
 - 购买 ChatGPT Plus 充值卡密：https://store.ai-headshot.net/item/4
 
-- ChatGPT Plus 自助充值系统：https://easysub.site/
+- ChatGPT Plus 自助充值系统：https://jufai66.com/  
 
 - 完整图文 / 视频教程：https://recharge.aigc248.com/
 
