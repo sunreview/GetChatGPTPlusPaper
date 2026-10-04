@@ -20,7 +20,7 @@
 
 https://github.com/user-attachments/assets/50417126-fa27-42d9-aa43-ada64206b06f
 
-> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/0628.mp4)。
+> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/1004.mp4)。
 
 ---
 
