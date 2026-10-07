@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/e6c56592-c247-4420-ab0b-174ed5571cab
 
 **验证卡密 → 解析账号 → 确认充值**
 
-![步骤1：进入 ChatGPT Plus 自助充值系统](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-01.jpg)
+![步骤1：进入 ChatGPT Plus 自助充值系统](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-11.jpg)
 
 ---
 
