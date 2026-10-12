@@ -8,6 +8,22 @@
 
 不需要国际信用卡。先在发卡网购买 **ChatGPT Plus 充值卡密**，然后打开**自助充值系统**校验卡密，登录自己的 ChatGPT 账号获取 **Token** 并粘贴提交。系统提示「充值完成」后刷新 ChatGPT，账号就会从 **Free 升级为 Plus**。整个过程是给你自己的账号升级订阅（不是买成品号），聊天记录全部保留，订阅质保 30 天。
 
+## 🎬 视频教程（约 1 分钟全流程演示）
+
+先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
+
+https://github.com/user-attachments/assets/e6c56592-c247-4420-ab0b-174ed5571cab
+
+> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/1012.mp4)。
+
+## 🔗 快速入口
+
+| 用途                         | 地址                                 |
+| ---------------------------- | ------------------------------------ |
+| 📘 本教程原始页面             | https://recharge.aigc248.com/        |
+| 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
+| 💳 ChatGPT Plus 自助充值系统  | https://aibobo.cc/               |
+
 ## 📋 关键信息一览
 
 | 项目 | 说明 |
@@ -21,24 +37,6 @@
 | 能否使用 Codex | 可以 |
 | 操作时长 | 视频约 1 分钟看完全流程，实际操作共 10 步 |
 | 客服 | 微信 `gracereview618` |
-
-## 🔗 快速入口
-
-| 用途                         | 地址                                 |
-| ---------------------------- | ------------------------------------ |
-| 📘 本教程原始页面             | https://recharge.aigc248.com/        |
-| 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus 自助充值系统  | https://aibobo.cc/               |
-
----
-
-## 🎬 视频教程（约 1 分钟全流程演示）
-
-先花 1 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
-
-https://github.com/user-attachments/assets/e6c56592-c247-4420-ab0b-174ed5571cab
-
-> ▶️ 上方视频可直接在页面内播放。也可前往 [教程原始页面在线观看](https://recharge.aigc248.com/)，或[下载视频文件](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/1012.mp4)。
 
 ---
 
