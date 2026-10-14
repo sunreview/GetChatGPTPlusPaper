@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/85cfe71c-8be8-4fa2-ab36-04c2ec1fede9
 | ---------------------------- | ------------------------------------ |
 | 📘 本教程原始页面             | https://recharge.aigc248.com/        |
 | 🛒 购买 ChatGPT Plus 充值卡密 | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus 自助充值系统  | https://aibobo.cc/               |
+| 💳 ChatGPT Plus 自助充值系统  | https://kkfeiai.com/              |
 
 ## 📋 关键信息一览
 
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/85cfe71c-8be8-4fa2-ab36-04c2ec1fede9
 
 打开：
 
-👉 https://aibobo.cc
+👉 [https://kkfeiai.com/](https://kkfeiai.com/)
 
 进入后可以看到三个主要步骤：
 
@@ -365,7 +365,7 @@ Token 页面打开后：
 
 - 购买 ChatGPT Plus 充值卡密：https://store.ai-headshot.net/item/4
 
-- ChatGPT Plus 自助充值系统：https://aibobo.cc/  
+- ChatGPT Plus 自助充值系统：https://kkfeiai.com/
 
 - 完整图文 / 视频教程：https://recharge.aigc248.com/
 
