@@ -1,3 +1,4 @@
+**🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
 # 🚀 2026年国内如何充值 / 订阅 ChatGPT Plus 会员？保姆级视频图文教程（新手可用）
 
