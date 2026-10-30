@@ -2,43 +2,46 @@
 
 # 🚀 How to Pay for / Subscribe to ChatGPT Plus in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
-> A **ChatGPT Plus top-up guide** for users without an international credit card: use a **redeem code (card key) + self-service top-up** to **upgrade your own ChatGPT account to a Plus subscription**. This article walks through the full **picture + video** flow — buying a code, getting your account Token, submitting the top-up, and confirming Plus status.
+> A **ChatGPT Plus top-up guide** for users without an international credit card: on the all-in-one top-up site **[OKSub (oksub.net)](https://oksub.net/)** you **pay with WeChat Pay or USDT**, then **top up your own ChatGPT account yourself** on the order page — no account password required. This article walks through the full **picture + video** flow: choosing a plan, paying, copying your account info, and confirming Plus status.
 >
 > 📅 Last updated: October 2026
 
 ## 📌 One-Sentence Answer: How do I pay for ChatGPT Plus without an international card?
 
-No international credit card needed. First buy a **ChatGPT Plus redeem code** at the store, then open the **self-service top-up system** to verify the code, log in to your own ChatGPT account to get your **Token**, and paste and submit it. Once the system says "top-up complete," refresh ChatGPT and your account goes from **Free to Plus**. The whole process upgrades your own account (not buying a pre-made account), your chat history is fully kept, and the subscription carries a 30-day warranty.
+No international credit card needed. Open **[oksub.net](https://oksub.net/)**, choose the ChatGPT Plus plan, enter your email and **pay with WeChat Pay or USDT**. After payment you are taken to your order page automatically. In the browser where you are logged in to ChatGPT, open `chatgpt.com/api/auth/session`, select and copy everything on that page, paste it back into the order page, **pre-check** that the email and current plan are right, then **confirm the top-up**. A few minutes later, refresh ChatGPT and your account goes from **Free to Plus**. The whole process upgrades your own account (not a shared or pooled account), your chat history is fully kept, and the subscription carries a 30-day warranty.
 
-## 🎬 Video Tutorial (~1-minute full walkthrough)
+## 🎬 Video Tutorial (~2-minute full walkthrough with voice-over, in Chinese)
 
-Watch the full flow once (about 1 minute) to get the big picture, then follow the picture steps below.
+Watch the full flow once (about 2 minutes) to get the big picture, then follow the picture steps below.
 
-https://github.com/user-attachments/assets/85cfe71c-8be8-4fa2-ab36-04c2ec1fede9
+[![ChatGPT Plus top-up demo video: click to play](./images/oksub/plus-tutorial-v2-poster.jpg)](./plus-tutorial-v2.mp4)
 
-> ▶️ The video above plays inline. You can also [watch it on the original tutorial page](https://recharge.aigc248.com/) or [download the video file](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/1012.mp4).
+> ▶️ Click the cover above to play the video. You can also watch it on the [OKSub home page](https://oksub.net/) or [download the video file](./plus-tutorial-v2.mp4). The email and account shown in the video are demo data.
 
 ## 🔗 Quick Links
 
-| Purpose                         | URL                                  |
-| ------------------------------- | ------------------------------------ |
-| 📘 Original tutorial page        | https://recharge.aigc248.com/        |
-| 🛒 Buy a ChatGPT Plus redeem code | https://store.ai-headshot.net/item/4 |
-| 💳 ChatGPT Plus self-service top-up | https://kkfeiai.com/             |
+| Purpose                                          | URL                                     |
+| ------------------------------------------------ | --------------------------------------- |
+| 🏠 OKSub all-in-one site (choose plan + pay + top up) | https://oksub.net/                      |
+| 💳 Order ChatGPT Plus directly                     | https://oksub.net/checkout/chatgpt-plus |
+| 🔍 Order lookup (order number / email)             | https://oksub.net/orders                |
+| 🔑 Get your account info (session)                 | https://chatgpt.com/api/auth/session    |
 
 ## 📋 Key Facts at a Glance
 
 | Item | Details |
 | --- | --- |
 | Who it's for | Users who already have their own ChatGPT account but no international credit card |
-| Top-up method | Redeem code + Token self-service top-up, upgrading your own account to Plus |
-| Account requirement | The account must be in **Free** status; accounts already on Plus cannot be renewed this way |
-| Password needed? | No — you only paste the Token in the self-service top-up system |
-| Chat history | Fully kept (you're upgrading your own account) |
-| Warranty | 30-day subscription warranty; contact support if the subscription drops |
-| Can I use Codex? | Yes |
-| Time needed | ~1 minute to watch the video; 10 steps in practice |
-| Support | WeChat `gracereview618` |
+| Price | ChatGPT Plus **¥139 / month** (30 days, equivalent to the official $20/month); Pro 5x ¥680 and Pro 10x ¥1200 also available |
+| Payment | **WeChat Pay** (recommended, scan to pay), **USDT-BEP20**, **USDT-Polygon** |
+| How it works | After payment, paste your session account info on the order page, pre-check, then top up yourself — usually done in minutes |
+| Account requirement | Plus requires the account to currently be **Free** (no active subscription); Pro 5x can be applied on top of an existing plan |
+| Password needed? | No — you only paste the session page content on the order page |
+| Chat history | Fully kept (it's your own account being upgraded) |
+| Warranty | 30-day subscription warranty; if Plus drops mid-way, contact support |
+| Invoice | Electronic invoice available (choose "Need invoice" when ordering, +¥10 per order) |
+| Codex? | Yes |
+| Support | WeChat `gracereview618` / Telegram `@aispace_kefu` |
 
 ---
 
@@ -46,45 +49,47 @@ https://github.com/user-attachments/assets/85cfe71c-8be8-4fa2-ab36-04c2ec1fede9
 
 ### Why do users without an international card get stuck paying for ChatGPT Plus?
 
-For many users the real hurdle isn't *using* ChatGPT — it's **completing the Plus subscription**.
+For many users, the real hassle isn't "knowing how to use ChatGPT" — it's **how to complete the Plus subscription**.
 
-Common problems:
+Common problems include:
 
 - No suitable international payment method;
 
-- Unfamiliarity with overseas credit-card billing flows;
+- Unfamiliar with overseas credit card billing;
 
-- App Store / Google Play account region mismatches;
+- App Store / Google Play account region mismatch;
 
-  The flow below uses a **redeem code + self-service top-up system** to complete the upgrade, and a desktop browser is recommended throughout.
+- Previously you had to buy a code on one store and then top up on a different site — more steps, more room for mistakes.
+
+  The flow below uses the **OKSub all-in-one top-up site**: choosing a plan, paying and topping up all happen on one site, and after payment you go straight to the order page to top up yourself. Using a desktop browser is recommended throughout.
 
 ---
 
 ## 2. 👥 Who is this ChatGPT Plus top-up method for?
 
-This guide suits the following kinds of users:
+This guide is a good fit for the following users:
 
 ### ✅ You already have your own ChatGPT account
 
-You don't need to buy a pre-made account — you upgrade your own account to Plus directly, and your chat history and daily usage stay in your own account.
+You don't need to buy a "pre-made account" — you upgrade your own account to Plus directly, and your chat history and everyday use stay in your own account.
 
 ### ✅ You don't have a convenient international credit card
 
-If you can't complete a card payment on ChatGPT's official page, a redeem-code self-service top-up is worth considering.
+If you can't complete a card payment on the official ChatGPT page, you can pay with WeChat Pay or USDT instead.
 
 ### ✅ It's your first time and you want a guide to follow
 
-The whole process boils down to:
+The whole process can be summed up as:
 
-**Buy a code → Verify the code → Get Token → Parse account → Confirm email → Submit top-up → Refresh ChatGPT to see Plus**
+**Choose plan → Enter email → Pay with WeChat / USDT → Copy session account info → Paste & pre-check → Confirm top-up → Refresh ChatGPT to see Plus**
 
-If you're new to this, just follow the screenshots step by step below.
+Don't worry if you're unfamiliar with it — just follow the screenshots below step by step.
 
 ---
 
 ## 3. 🧰 What do you need to top up ChatGPT Plus?
 
-Before starting, it's best to have the following ready.
+Before you start, it's best to have the following ready.
 
 ### ① A ChatGPT account you can log in to
 
@@ -92,170 +97,184 @@ Open ChatGPT in your browser first and confirm:
 
 - You can log in normally;
 
-- The email is the account you intend to upgrade;
+- The email is the account you want to upgrade;
 
-- You've clearly confirmed the current plan status.
+- The current plan is **Free** (Plus can only be applied to an account with no active subscription);
 
-  The demo account in this picture guide is **ChatGPT Free**.
+- It's a personal account: if you joined a Team workspace, switch back to your personal account first.
 
-### ② A ChatGPT Plus redeem code
+### ② An email address you use regularly
 
-First buy the matching ChatGPT Plus self-service redeem code at the store:
+You enter an email when ordering. After payment, the order page link is sent to this email so you can come back any time to continue the top-up or check the order.
 
-👉 https://store.ai-headshot.net/item/4
+### ③ WeChat Pay or USDT
 
-After purchase, save the code; you'll use it in the first step.
+WeChat scan-to-pay is recommended; USDT-BEP20 (BSC chain) and USDT-Polygon (low fees) are also supported.
 
 ---
 
 ## 4. 🖼️ ChatGPT Plus Top-Up Picture Steps
 
-Here's the formal flow. After watching the video above, expand the full picture steps below if you want to double-check any detail.
+Now for the actual top-up. After watching the video above, if you want to check each detail, expand the full picture steps below and follow along.
 
 <details>
-<summary>📖 Click to expand the full picture steps (10 steps)</summary>
+<summary>📖 Click to expand the full picture steps (12 steps)</summary>
 
-### Step 1: Open the ChatGPT Plus self-service top-up system 🚪
+### Step 1: Open OKSub and choose the ChatGPT Plus plan 🚪
 
 Open:
 
-👉 [https://kkfeiai.com/](https://kkfeiai.com/)
+👉 [https://oksub.net/](https://oksub.net/)
 
-Inside you'll see three main steps:
+Under "ChatGPT 套餐" (ChatGPT plans), find **ChatGPT Plus (¥139 / month · 30 days)** and click **"立即充值"** (Top up now).
 
-**Verify code → Parse account → Confirm top-up**
+You can also open the order page directly: [https://oksub.net/checkout/chatgpt-plus](https://oksub.net/checkout/chatgpt-plus)
 
-![Step 1: Open the ChatGPT Plus self-service top-up system](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-11.jpg)
-
----
-
-### Step 2: Enter the redeem code you bought 🔑
-
-Paste the code you just bought into the **"Card Key"** box, then click **"Verify code"**.
-
-Notes:
-
-- Don't copy extra spaces;
-
-- No line breaks;
-
-- Don't drop any characters;
-
-- If it says invalid, re-copy once and try again.
-
-  After verification, the system shows the target plan as **ChatGPT Plus** and moves to the next step.
-
-  ![Step 2: Enter and verify the code](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-02.jpg)
+![Step 1: Open OKSub and choose ChatGPT Plus](./images/oksub/oksub-step-01.jpg)
 
 ---
 
-### Step 3: Enter the "Parse account" page 🧩
+### Step 2: Enter an email you use regularly ✉️
 
-Once the code is verified, the page moves to the second stage.
+In **"第一步：填写信息"** (Step 1: Fill in info), enter your email.
 
-You'll see three instructions:
+This email receives order notifications and the top-up link — **use one you check regularly so you don't lose contact**. After payment, the order page link is sent here so you can return any time to continue or check the order.
 
-1. Log in to ChatGPT;
-
-2. Get the Token;
-
-3. Paste the full JSON into the input box.
-
-   ![Step 3: Enter the parse-account page](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-03.jpg)
+![Step 2: Enter your email](./images/oksub/oksub-step-02.jpg)
 
 ---
 
-### Step 4: Log in to the ChatGPT account you want to top up 👤
+### Step 3: Choose a payment method and click "立即支付" (Pay now) 💳
 
-Follow the page instructions to open ChatGPT and log in to **the account you truly intend to upgrade to Plus**.
+Choose a payment method:
 
-After logging in, double-check the current account email so you don't end up topping up the wrong account when multiple accounts are logged in at once.
+- **微信支付 (WeChat Pay)**: recommended, scan to pay;
 
-The demo account in the image is currently ChatGPT Free.
+- **USDT-BEP20**: BSC chain;
 
-![Step 4: Confirm the logged-in ChatGPT account](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-04.jpg)
+- **USDT-Polygon**: Polygon chain, low fees.
 
----
+  If you need an invoice, choose **"需要发票"** (Need invoice) under "发票" (+¥10 per order). Check the amount due and click **"立即支付"** (Pay now).
 
-### Step 5: Click the "Get Token" link 🔗
+> 💡 For bulk purchases or other payment methods, contact support: WeChat `gracereview618` / Telegram `@aispace_kefu`.
 
-Back in the top-up system, find the **"Get Token"** link in step two and click it.
-
-The system opens a new page showing the JSON data for the currently logged-in ChatGPT account.
-
-![Step 5: Click Get Token](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-05.jpg)
-
-> ⚠️ **Reminder again: the Token is a sensitive credential.**
->
-> Don't screenshot or send the JSON content to anyone, and don't give it to any so-called "manual support agent to operate for you." This guide's flow only asks you to paste it into the self-service top-up page.
+![Step 3: Choose a payment method](./images/oksub/oksub-step-03.jpg)
 
 ---
 
-### Step 6: Select all and copy the full Token JSON 📋
+### Step 4: Confirm the order and pay 📱
 
-Once the Token page opens:
+On the **"确认付款"** (Confirm payment) page, check the plan, amount, order number and contact email, then click **"前往安全支付"** (Go to secure payment) and scan with WeChat to pay (for USDT, transfer as instructed on the page).
+
+Please **complete payment within 30 minutes**. After payment you are returned to the order page automatically — **no screenshot needed**.
+
+![Step 4: Confirm payment](./images/oksub/oksub-step-04.jpg)
+
+---
+
+### Step 5: Payment successful — go to top-up 🎉
+
+Once payment is received, the page shows **"付款成功！"** (Payment successful). Click **"前往充值"** (Go to top-up).
+
+![Step 5: Payment successful](./images/oksub/oksub-step-05.jpg)
+
+---
+
+### Step 6: Open the order page and get ready to enter your account 🧾
+
+On the **"订单进度"** (Order progress) page you'll see the status **"已付款"** (Paid), the next step **"开始充值"** (Start top-up), the order number and the remaining top-up count.
+
+Click **"复制"** (Copy) to save your order number first — you'll need it for order lookup or support.
+
+![Step 6: Order page](./images/oksub/oksub-step-06.jpg)
+
+---
+
+### Step 7: Open the session link in the browser where you're logged in to ChatGPT 🔗
+
+Follow "账号信息获取步骤" (How to get your account info) on the order page:
+
+1. In your browser, log in to **the ChatGPT account you actually want to upgrade to Plus**: [chatgpt.com](https://chatgpt.com/);
+
+2. In **the same browser**, open a new tab: [chatgpt.com/api/auth/session](https://chatgpt.com/api/auth/session) — you'll see a big block of text;
+
+3. Select all and copy it on that page, then paste it back on the order page.
+
+   Notes:
+
+- If the session page shows only `{}`, this browser isn't logged in to ChatGPT yet — log in first, then reopen the link;
+
+- On a phone: log in using the **mobile browser** (not the ChatGPT app), open the link, long-press the text → Select all → Copy;
+
+- If several accounts are logged in in the browser, make sure the current one is the account you want to top up.
+
+![Step 7: Open the session link](./images/oksub/oksub-step-07.jpg)
+
+---
+
+### Step 8: Select all and copy the full content of the session page 📋
+
+Once the session page is open:
 
 - Windows: press `Ctrl + A` to select all, then `Ctrl + C` to copy;
 
 - macOS: press `Command + A` to select all, then `Command + C` to copy.
 
-  Be sure to copy the **full page of JSON data** — don't grab only part of it.
+  Be sure to copy **the full content of the whole page**, not just part of it, and don't turn on browser translation.
 
-  ![Step 6: Copy the full Token JSON](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-06.jpg)
+![Step 8: Select all and copy the session content](./images/oksub/oksub-step-08.jpg)
 
----
-
-### Step 7: Paste the Token and parse the account 🔍
-
-Back in the self-service top-up system, paste the full JSON you just copied into the **Access Token** box.
-
-Then click **"Parse account"**.
-
-The system identifies the ChatGPT account the Token belongs to.
-
-![Step 7: Paste the Token and parse the account](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-07.jpg)
+> ⚠️ **This content is equivalent to a login credential (it includes your Access Token) and is as sensitive as a password.**
+>
+> The English WARNING at the top of the page is reminding you of exactly this. Only paste it into your OKSub order page — don't screenshot it or send it to anyone, including people claiming to be support.
 
 ---
 
-### Step 8: Carefully verify the top-up email ✅
+### Step 9: Paste it back into the order page and click "预检账号信息" (Pre-check account) 🔍
 
-On the final confirmation page, focus on the **target email**.
+Back on the order page, paste the full content into the **"粘贴完整账号信息 JSON"** (Paste full account info JSON) box, then click **"预检账号信息"** (Pre-check account info).
 
-Confirm all of the following are correct:
+The account info is only used for this top-up and is not stored on the server; if you change the content, run the pre-check again.
 
-- The redeem code is correct;
-
-- The current original plan is correct;
-
-- The upgrade plan is ChatGPT Plus;
-
-- **The target email is exactly your own ChatGPT account email.**
-
-  Once confirmed, check the confirmation box, then click **"Submit upgrade"**.
-
-> ⚠️ Once submitted, don't casually close the page, log out of ChatGPT, or switch accounts.
-
-![Step 8: Confirm the email and submit the upgrade](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-08.jpg)
+![Step 9: Paste and pre-check](./images/oksub/oksub-step-09.jpg)
 
 ---
 
-### Step 9: Wait for the system to say "top-up complete" 🎉
+### Step 10: Verify the account, then confirm and start the top-up ✅
 
-After submitting, wait for the system to process automatically.
+After the pre-check, **"核对充值账号"** (Verify top-up account) appears. Check carefully:
 
-On success, the page shows a **"top-up complete"** message.
+- **Account email** is your own ChatGPT account that you want to upgrade;
 
-Once you see the complete status, click **"Got it"**.
+- **Current plan** is `free` (ChatGPT Plus only supports accounts that are currently Free);
 
-![Step 9: Top-up complete](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-09.jpg)
+- **Account type** is personal;
+
+- **Plan after top-up** is ChatGPT Plus.
+
+  Once everything is right, tick **"我确认这是本次需要充值的账号"** (I confirm this is the account to top up) and click **"确认并开始充值"** (Confirm and start top-up). The pre-check result is valid for 5 minutes — re-run it if it expires.
+
+> ⚠️ After submitting, don't close the page, log out of ChatGPT or switch accounts, and don't submit repeatedly.
+
+![Step 10: Verify and confirm](./images/oksub/oksub-step-10.jpg)
 
 ---
 
-### Step 10: Go back to ChatGPT and confirm Plus status 💎
+### Step 11: Wait for "充值已完成" (Top-up complete) 🎊
+
+After submitting, the system processes it automatically: **Submitted → Processing → Complete**.
+
+When you see **"100% · 充值服务已确认完成"** (100% · Top-up confirmed complete), the top-up has succeeded.
+
+![Step 11: Top-up complete](./images/oksub/oksub-step-11.jpg)
+
+---
+
+### Step 12: Go back to ChatGPT and confirm Plus status 💎
 
 Finally, reopen or refresh ChatGPT.
 
-Go to account settings / the Billing page; if it has changed from **ChatGPT Free** to **ChatGPT Plus**, the upgrade succeeded.
+Go to account Settings / Billing. If it has changed from **ChatGPT Free** to **ChatGPT Plus**, the upgrade succeeded.
 
 If nothing changes right after refreshing, you can:
 
@@ -265,11 +284,11 @@ If nothing changes right after refreshing, you can:
 
 3. Log out of ChatGPT and log back in;
 
-4. Check the Billing / plan status again.
+4. Check Billing / plan status again.
 
-   ![Step 10: Confirm ChatGPT Plus is active](https://raw.githubusercontent.com/sunreview/GetChatGPTPlusPaper/main/step-10.jpg)
+   ![Step 12: Confirm ChatGPT Plus is active](./step-10.jpg)
 
-   That completes the whole ChatGPT Plus self-service top-up flow. 🎊
+   That's it — the whole ChatGPT Plus top-up flow is complete. 🎊
 
 </details>
 
@@ -277,96 +296,122 @@ If nothing changes right after refreshing, you can:
 
 ## 5. ❓ ChatGPT Plus Top-Up FAQ
 
-### Q1: Is this top-up method under warranty?
+### Q1: How do I pay for ChatGPT without an international card? Which payment methods are supported?
 
-A 30-day subscription warranty. Philippines-region Plus top-ups are quite stable, so the subscription rarely has issues. If the Plus subscription happens to drop midway, contact support **gracereview618** promptly.
+**WeChat Pay** and **USDT (BEP20 / Polygon)** are supported — no overseas credit card, PayPal or virtual card needed. After payment you go straight to the order page, paste your account info and top up yourself, usually within minutes.
 
 ### Q2: Do I have to give my ChatGPT password to anyone?
 
-Under this self-service flow, you don't send your password directly to support, but you do need to copy and submit the **Access Token / full JSON login data**.
+No. No password is needed at any point — you only paste the session page content (which contains your Access Token login credential) on the order page to top up yourself. This content is as sensitive as a password: **only paste it into the order page on this site**, and never screenshot it or send it to anyone, including people claiming to be support.
 
-### Q3: Why does it say "code invalid" or "code already used"?
+### Q3: What conditions must my account meet before topping up?
 
-First check:
+ChatGPT Plus requires the account to currently be **Free** (no active subscription) and cannot be applied over an existing subscription; Pro 5x can be applied on top, so accounts already on Plus / Pro can use it. The account must be personal — if you joined a Team workspace, switch back to your personal account before copying the session.
 
-1. Any extra spaces copied;
+### Q4: I'm already on Plus — can I renew?
 
-2. Any line breaks;
+Plus can't be renewed early: only Free accounts can be topped up to Plus, so wait until your current subscription expires and the account goes back to Free, then order again. If you want to move to a higher tier, Pro 5x can be applied directly to an account that already has Plus.
 
-3. Any missing characters;
+### Q5: After pasting, it says "incomplete copy" or "account not recognized". What now?
 
-4. Whether the code has already been used.
+Check in order:
 
-   If the code is entered completely correctly and still won't verify, contact the after-sales support where you bought the code.
+1. On the session page, press `Ctrl + A` (Mac: `⌘ + A`) to select all, then `Ctrl + C` to copy the full content — not just part of it;
 
-### Q4: The system says top-up complete, but ChatGPT is still Free. What now?
+2. Don't turn on browser translation;
+
+3. Make sure the browser is logged in to the exact ChatGPT account you want to top up;
+
+4. If your login just expired, refresh ChatGPT, reopen the session page and copy again.
+
+   If it still doesn't work, contact support with your order number.
+
+### Q6: It says top-up complete, but ChatGPT is still Free. What now?
 
 Try in order:
 
 1. Refresh the ChatGPT page;
-2. Wait a bit and check again;
+2. Wait a few dozen seconds and check again;
 3. Log out and log back in;
-4. Confirm the plan on the Billing page;
-5. If it still doesn't apply, save your order info and contact support.
-
-### Q5: I'm already on Plus — can I renew?
-
-No. The account must be in **Free** status to use the self-service top-up system; accounts already on Plus cannot be renewed this way.
-
-### Q6: Can ChatGPT Plus use Codex?
-
-Yes, you can use Codex. First log in to your ChatGPT account in your default browser, then log in to Codex with the default browser — that way you don't have to deal with SMS codes.
+4. Open Billing / plan in Settings to confirm;
+5. If it still isn't active, keep your order number and contact support.
 
 ### Q7: What if the top-up fails?
 
-Don't repeatedly mash submit.
+Don't keep resubmitting. If the top-up doesn't succeed, the order page shows the reason; if the quota has been returned, fix the issue as instructed and submit again.
 
-It's best to keep:
+If you need help from support, provide:
 
-- The code;
+- Order number;
 
-- The order number;
+- Screenshot of the error message;
 
-- A screenshot of the error message;
+- Email of the account being topped up.
 
-- The top-up time;
+  **Do not provide your password or session content.**
 
-- The target account email (don't provide the password or Token).
+### Q8: Can ChatGPT Plus use Codex?
 
-  Then contact support to check the order status.
+Yes — both Plus and Pro include Codex. Log in to ChatGPT in your default browser first, then log in to Codex using the same default browser; that way you usually won't need an SMS verification code.
+
+### Q9: Will it be applied to my own account? Is it safe?
+
+Yes. All plans are applied to your own account through the official, legitimate process — not a shared or pooled account — and your chat history and settings are fully kept. The account info you paste is only used for this verification and top-up; don't share it publicly.
+
+### Q10: How does the warranty work?
+
+30-day subscription warranty. If your Plus / Pro subscription drops during the warranty period, contact support promptly (WeChat `gracereview618` / Telegram `@aispace_kefu`) with your order number. Bans caused by improper use are handled under OpenAI's official after-sales rules.
+
+### Q11: Can I get an invoice?
+
+Yes. Choose "需要发票" (Need invoice) when ordering (+¥10 invoicing fee per order); after payment, enter the invoice title and tax ID (company or individual) on the order page. An electronic general invoice is issued, available for download on the order page with an email notification, usually within 1–3 business days. Orders placed without an invoice can't have one issued later; for special VAT invoices or corporate bank transfers, contact support first.
+
+### Q12: Can I buy several months at once?
+
+Each order is a 1-month subscription. When it expires, simply order again to renew; for bulk purchases, contact support.
+
+### Q13: Where can I look up my order?
+
+After payment, the order page link is sent to the email you ordered with; you can also look it up on the [Order lookup](https://oksub.net/orders) page by order number or email.
 
 ---
 
 ## 6. 💬 Contact Support
 
-If you still run into issues with the code, account parsing, or top-up result after following the steps above, contact after-sales support for help.
+If you still run into problems with payment, the account pre-check or the top-up result after following the steps above, contact support for help — please include your **order number**.
 
-### 📱 WeChat Support (from the tutorial page)
+### 📱 WeChat Support
 
-**WeChat: `gracereview618`**
+**WeChat ID: `gracereview618`**
 
-When adding, you can note:
+### ✈️ Telegram Support
 
-> ChatGPT Plus top-up
+**[@aispace_kefu](https://t.me/aispace_kefu)**
+
+When adding, you can include the note:
+
+> ChatGPT Plus top-up + order number
 
 ---
 
 ## 🎯 Final Summary
 
-In 2026, AI competition both in China and abroad has entered an intense phase. Domestic models keep getting stronger, and ChatGPT still has a huge user base in coding, research, content production, and overseas workflows.
+In 2026, AI at home and abroad has entered a phase of intense competition. Domestic models keep getting stronger, and ChatGPT still has a huge user base in coding, research, content production and international workflows.
 
-If you already have your own ChatGPT account and just lack a convenient way to pay for Plus, the self-service flow in this guide comes down to one sentence:
+If you already have your own ChatGPT account and just lack a convenient way to pay for Plus, the flow in this guide comes down to one line:
 
-> **Buy a code → Verify the code → Get Token → Verify email → Submit upgrade → Refresh to confirm Plus.**
+> **Choose plan → Pay with WeChat / USDT → Copy session → Paste & pre-check → Confirm top-up → Refresh to confirm Plus.**
 
-On your first run, don't rush — above all, carefully check **which account the Token belongs to and the final top-up email**.
+The first time, don't rush — pay special attention to **the account email and current plan shown by the pre-check**.
 
 ### 🚀 Related Links
 
-- Buy a ChatGPT Plus redeem code: https://store.ai-headshot.net/item/4
+- OKSub all-in-one top-up site: https://oksub.net/
 
-- ChatGPT Plus self-service top-up: https://kkfeiai.com/
+- Order ChatGPT Plus directly: https://oksub.net/checkout/chatgpt-plus
 
-- Full picture / video tutorial: https://recharge.aigc248.com/
+- Order lookup: https://oksub.net/orders
 
-  If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.
+- Demo video: [plus-tutorial-v2.mp4](./plus-tutorial-v2.mp4)
+
+  If this guide helped you, feel free to **Star ⭐ / bookmark** it so you can come back next time you renew.
