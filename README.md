@@ -14,9 +14,7 @@
 
 先花 2 分钟看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
 
-[![ChatGPT Plus 国内充值演示视频：点击播放](./images/oksub/plus-tutorial-v2-poster.jpg)](./plus-tutorial-v2.mp4)
-
-> ▶️ 点击上方封面即可播放视频。也可以在 [OKSub 官网首页](https://oksub.net/) 在线观看，或[下载视频文件](./plus-tutorial-v2.mp4)。视频中的邮箱和账号均为演示数据。
+https://github.com/user-attachments/assets/ea075d1f-1427-4fd4-a753-fcd5699591ee
 
 ## 🔗 快速入口
 
