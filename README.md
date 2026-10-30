@@ -21,8 +21,6 @@ https://github.com/user-attachments/assets/ea075d1f-1427-4fd4-a753-fcd5699591ee
 | 用途                              | 地址                                     |
 | --------------------------------- | ---------------------------------------- |
 | 🏠 OKSub 一体化充值网站（选套餐 + 付款 + 充值） | https://oksub.net/                       |
-| 💳 直接下单 ChatGPT Plus           | https://oksub.net/checkout/chatgpt-plus  |
-| 🔍 订单查询（订单号 / 下单邮箱）    | https://oksub.net/orders                 |
 | 🔑 获取账号信息（session）          | https://chatgpt.com/api/auth/session     |
 
 ## 📋 关键信息一览

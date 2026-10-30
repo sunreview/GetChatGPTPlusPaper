@@ -23,8 +23,6 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Purpose                                          | URL                                     |
 | ------------------------------------------------ | --------------------------------------- |
 | 🏠 OKSub all-in-one site (choose plan + pay + top up) | https://oksub.net/                      |
-| 💳 Order ChatGPT Plus directly                     | https://oksub.net/checkout/chatgpt-plus |
-| 🔍 Order lookup (order number / email)             | https://oksub.net/orders                |
 | 🔑 Get your account info (session)                 | https://chatgpt.com/api/auth/session    |
 
 ## 📋 Key Facts at a Glance
