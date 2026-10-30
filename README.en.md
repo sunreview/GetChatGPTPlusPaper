@@ -23,8 +23,6 @@ Watch the full flow once (about 2 minutes) to get the big picture, then follow t
 | Purpose                                          | URL                                     |
 | ------------------------------------------------ | --------------------------------------- |
 | 🏠 OKSub all-in-one site (choose plan + pay + top up) | https://oksub.net/                      |
-| 💳 Order ChatGPT Plus directly                     | https://oksub.net/checkout/chatgpt-plus |
-| 🔍 Order lookup (order number / email)             | https://oksub.net/orders                |
 | 🔑 Get your account info (session)                 | https://chatgpt.com/api/auth/session    |
 
 ## 📋 Key Facts at a Glance
@@ -308,11 +306,7 @@ No. No password is needed at any point — you only paste the session page conte
 
 ChatGPT Plus requires the account to currently be **Free** (no active subscription) and cannot be applied over an existing subscription; Pro 5x can be applied on top, so accounts already on Plus / Pro can use it. The account must be personal — if you joined a Team workspace, switch back to your personal account before copying the session.
 
-### Q4: I'm already on Plus — can I renew?
-
-Plus can't be renewed early: only Free accounts can be topped up to Plus, so wait until your current subscription expires and the account goes back to Free, then order again. If you want to move to a higher tier, Pro 5x can be applied directly to an account that already has Plus.
-
-### Q5: After pasting, it says "incomplete copy" or "account not recognized". What now?
+### Q4: After pasting, it says "incomplete copy" or "account not recognized". What now?
 
 Check in order:
 
@@ -326,7 +320,7 @@ Check in order:
 
    If it still doesn't work, contact support with your order number.
 
-### Q6: It says top-up complete, but ChatGPT is still Free. What now?
+### Q5: It says top-up complete, but ChatGPT is still Free. What now?
 
 Try in order:
 
@@ -336,7 +330,7 @@ Try in order:
 4. Open Billing / plan in Settings to confirm;
 5. If it still isn't active, keep your order number and contact support.
 
-### Q7: What if the top-up fails?
+### Q6: What if the top-up fails?
 
 Don't keep resubmitting. If the top-up doesn't succeed, the order page shows the reason; if the quota has been returned, fix the issue as instructed and submit again.
 
@@ -350,27 +344,27 @@ If you need help from support, provide:
 
   **Do not provide your password or session content.**
 
-### Q8: Can ChatGPT Plus use Codex?
+### Q7: Can ChatGPT Plus use Codex?
 
 Yes — both Plus and Pro include Codex. Log in to ChatGPT in your default browser first, then log in to Codex using the same default browser; that way you usually won't need an SMS verification code.
 
-### Q9: Will it be applied to my own account? Is it safe?
+### Q8: Will it be applied to my own account? Is it safe?
 
 Yes. All plans are applied to your own account through the official, legitimate process — not a shared or pooled account — and your chat history and settings are fully kept. The account info you paste is only used for this verification and top-up; don't share it publicly.
 
-### Q10: How does the warranty work?
+### Q9: How does the warranty work?
 
 30-day subscription warranty. If your Plus / Pro subscription drops during the warranty period, contact support promptly (WeChat `gracereview618` / Telegram `@aispace_kefu`) with your order number. Bans caused by improper use are handled under OpenAI's official after-sales rules.
 
-### Q11: Can I get an invoice?
+### Q10: Can I get an invoice?
 
 Yes. Choose "需要发票" (Need invoice) when ordering (+¥10 invoicing fee per order); after payment, enter the invoice title and tax ID (company or individual) on the order page. An electronic general invoice is issued, available for download on the order page with an email notification, usually within 1–3 business days. Orders placed without an invoice can't have one issued later; for special VAT invoices or corporate bank transfers, contact support first.
 
-### Q12: Can I buy several months at once?
+### Q11: Can I buy several months at once?
 
 Each order is a 1-month subscription. When it expires, simply order again to renew; for bulk purchases, contact support.
 
-### Q13: Where can I look up my order?
+### Q12: Where can I look up my order?
 
 After payment, the order page link is sent to the email you ordered with; you can also look it up on the [Order lookup](https://oksub.net/orders) page by order number or email.
 
