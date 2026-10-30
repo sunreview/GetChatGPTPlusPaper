@@ -402,10 +402,4 @@
 
 - Универсальный сайт пополнения OKSub: https://oksub.net/
 
-- Сразу оформить ChatGPT Plus: https://oksub.net/checkout/chatgpt-plus
-
-- Поиск заказа: https://oksub.net/orders
-
-- Демо-видео: [plus-tutorial-v2.mp4](./plus-tutorial-v2.mp4)
-
   Если руководство было полезным, поставьте **Star ⭐ / добавьте в закладки**, чтобы вернуться к нему при следующем продлении.

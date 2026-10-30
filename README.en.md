@@ -402,10 +402,4 @@ The first time, don't rush — pay special attention to **the account email and 
 
 - OKSub all-in-one top-up site: https://oksub.net/
 
-- Order ChatGPT Plus directly: https://oksub.net/checkout/chatgpt-plus
-
-- Order lookup: https://oksub.net/orders
-
-- Demo video: [plus-tutorial-v2.mp4](./plus-tutorial-v2.mp4)
-
   If this guide helped you, feel free to **Star ⭐ / bookmark** it so you can come back next time you renew.

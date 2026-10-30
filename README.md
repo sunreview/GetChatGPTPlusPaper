@@ -400,10 +400,4 @@ ChatGPT Plus 需要账号当前为 **Free** 状态（没有生效中的订阅）
 
 - OKSub 一体化充值网站：https://oksub.net/
 
-- 直接下单 ChatGPT Plus：https://oksub.net/checkout/chatgpt-plus
-
-- 订单查询：https://oksub.net/orders
-
-- 演示视频：[plus-tutorial-v2.mp4](./plus-tutorial-v2.mp4)
-
   如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
